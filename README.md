@@ -6,11 +6,11 @@ Poker detect with yolov8
 會進行撲克牌牌型偵測  
 
 1. 下載
-git clone https://github.com/imkait/Poker_detect  
+git clone https://github.com/imkait/Poker_detect.git  
 或  
 下載ZIP
 
-2. 安裝套件
+3. 安裝套件
 pip install -r requirements.txt
 
 Demo  
